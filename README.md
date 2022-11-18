@@ -30,3 +30,11 @@
 ## How to start
 - JavaScript 로 시작하거나 Node를 이용해서 시작할 수 있습니다.
 - [따라하기 문서](https://www.marzipano.net/docs.html)
+
+## 사용법 (요약)
+- Marzipano 툴을 Export한 경우 app-files 라는 폴더가 생김.
+- 이 폴더 밑에 있는 File 들을 웹서버에 업로드 하면 됨.
+- Html, JavaScript 파일이므로 기본적으로 nginx 등의 웹서버 만으로 실행됨
+- 필요한 경우 index.html, JavaScript, Css 등을 수정해서 사용할 것
+
+끝.
