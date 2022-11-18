@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-panovr_1",
-      "name": "panovr_1",
+      "name": "농소 몽돌해변",
       "levels": [
         {
           "tileSize": 256,
@@ -83,7 +83,7 @@ var APP_DATA = {
     },
     {
       "id": "1-panovr_2",
-      "name": "panovr_2",
+      "name": "리조트 야외 라운지",
       "levels": [
         {
           "tileSize": 256,
@@ -158,7 +158,7 @@ var APP_DATA = {
     },
     {
       "id": "2-panovr_3",
-      "name": "panovr_3",
+      "name": "리조트 로비",
       "levels": [
         {
           "tileSize": 256,
@@ -227,7 +227,7 @@ var APP_DATA = {
     },
     {
       "id": "3-panovr_4",
-      "name": "panovr_4",
+      "name": "리조트 정문, 주차장",
       "levels": [
         {
           "tileSize": 256,
